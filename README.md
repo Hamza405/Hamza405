@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Hamza
+
+Front End Developer
 
 <!--
 **Hamza405/Hamza405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

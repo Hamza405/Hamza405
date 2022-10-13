@@ -1,7 +1,7 @@
 Hi 👋, I'm Hamza
 
 Front End Developer,
-Fresh graduated computer engineer with more than one years experience in front end development.
+Fresh graduated computer engineer with more than one years experience in front end development. <br/>
 This is My Portfolio : https://hamzaalsheikh.vercel.app/
 
 ### :hammer_and_wrench: Languages and Tools :

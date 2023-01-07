@@ -1,7 +1,6 @@
 Hi 👋, I'm Hamza
 
-Front End Developer,
-Fresh graduated computer engineer with more than one years experience in front end development. <br/>
+Computer Engineer, Front-End Developer with more than one years experience in front end development. <br/>
 <a href="https://hamzaalsheikh.vercel.app" target="_blank" rel="noopener noreferrer">My Portfolio</a>.
 
 

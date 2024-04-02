@@ -1,6 +1,7 @@
-Hi 👋, I'm Hamza
+Hi 👋, 
 
-Computer Engineer, Front-End Developer with more than one years experience in front end development. <br/>
+My name is Hamza Al-Sheikh, and I hold a bachelor's degree in computer engineering with over three years of frontend and one year of full-stack development experience.<br/>
+
 <a href="https://hamzaalsheikh.vercel.app" target="_blank" rel="noopener noreferrer">My Portfolio</a>.
 
 

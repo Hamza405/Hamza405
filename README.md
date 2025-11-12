@@ -65,7 +65,7 @@
 
 ### 📫 How to Reach Me
 
-- 🌐 Portfolio: [hamzaalsheikh.app](https://hamzaalsheikh.app)
+- 🌐 Portfolio: [hamzaalsheikh.app](https://hamzaalsheikh.vercel.app)
 - 💼 LinkedIn: [hamza-al-sheikh](https://linkedin.com/in/hamza-al-sheikh)
 - 📧 Email: hamzash863@gmail.com
 

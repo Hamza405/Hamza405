@@ -43,23 +43,23 @@
 
 ### 🏆 Highlights
 
-   🧩 System Design
-     - 🗺️ Engineered a full geospatial tracking system with real-time location monitoring, reverse geocoding, offline persistence, and automated stay-duration analytics — built using Swift, Kotlin, React                Native, and SQLite.
-     - ☁️ Architected a scalable AWS serverless backend (Lambda, DynamoDB, Cognito) featuring webhook orchestration, conflict resolution, and secure data synchronization.
-     - 📊 Developed financial compliance engines for FBAR and IRS Form 8938, performing cross-table aggregation and threshold calculations for global asset reporting.
+🧩 System Design
+   - 🗺️ Engineered a full geospatial tracking system with real-time location monitoring, reverse geocoding, offline persistence, and automated stay-duration analytics — built using Swift, Kotlin, React Native, and SQLite.
+   - ☁️ Architected a scalable AWS serverless backend (Lambda, DynamoDB, Cognito) featuring webhook orchestration, conflict resolution, and secure data synchronization.
+   - 📊 Developed financial compliance engines for FBAR and IRS Form 8938, performing cross-table aggregation and threshold calculations for global asset reporting.
    
-   📊 Data & Architecture
-     - 🧩 Designed offline-first architecture using SQLite and Delta Sync for reliable mobile data handling.
-     - 💾 Engineered batch synchronization logic to optimize network usage and prevent data duplication across sessions.
+📊 Data & Architecture
+   - 🧩 Designed offline-first architecture using SQLite and Delta Sync for reliable mobile data handling.
+   - 💾 Engineered batch synchronization logic to optimize network usage and prevent data duplication across sessions.
+
+🔐 Security & Cryptography
+   - 🔒 Implemented cross-platform ECC cryptography modules in Swift & Kotlin, ensuring secure key exchanges without third-party libraries.
+   - 🧠 Designed secure data synchronization using hashed and signed payloads in React Native & AWS.
        
-   🔐 Security & Cryptography
-     - 🔒 Implemented cross-platform ECC cryptography modules in Swift & Kotlin, ensuring secure key exchanges without third-party libraries.
-     - 🧠 Designed secure data synchronization using hashed and signed payloads in React Native & AWS.
-       
-   💼 Product & Leadership
-     - 👨‍💻 Led development of a production-grade fintech mobile app from concept to deployment, ensuring a 99.9% crash-free rate.
-     - 👥 Mentored and upskilled 2 junior developers, guiding them through TypeScript best practices and modular app architecture.
-     - 🚀 Published and maintained the app on both App Store and Google Play with multi-environment CI/CD pipelines.
+💼 Product & Leadership
+   - 👨‍💻 Led development of a production-grade fintech mobile app from concept to deployment, ensuring a 99.9% crash-free rate.
+   - 👥 Mentored and upskilled 2 junior developers, guiding them through TypeScript best practices and modular app architecture.
+   - 🚀 Published and maintained the app on both App Store and Google Play with multi-environment CI/CD pipelines.
 
 ---
 
